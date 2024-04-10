@@ -1,0 +1,15 @@
+0.中文包：pip install jupyterlab-language-pack-zh-CN
+1.窗口化
+2.有文件列表
+3.命令行操作本机
+4.在jupyter中使用shell命令
+eg: !dir
+5.%run：执行脚本
+eg：%run test.py
+6.写Latex公式
+eg：%%latex
+\begin{equation}
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+  \label{eq:sample}
+\end{equation}
+
